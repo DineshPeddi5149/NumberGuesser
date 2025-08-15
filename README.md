@@ -47,7 +47,8 @@ I built this project to practice control flow, input handling, and modular funct
 
 ---
 ## How to Run (On Terminal)
-
+```
 git clone https://github.com/DineshPeddi5149/NumberGuesser.git
 cd NumberGuesser
 python guessing_game.py
+```
